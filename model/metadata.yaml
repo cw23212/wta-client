@@ -1,0 +1,18 @@
+description: Ultralytics YOLOv8n-cls model trained on ./
+author: Ultralytics
+date: '2024-06-01T17:58:15.551984'
+version: 8.2.20
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 1
+task: classify
+batch: 1
+imgsz:
+- 224
+- 224
+names:
+  0: 기쁨
+  1: 분노
+  2: 불안
+  3: 슬픔
+  4: 중립
